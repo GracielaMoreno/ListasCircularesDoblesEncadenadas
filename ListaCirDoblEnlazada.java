@@ -1,12 +1,11 @@
 package epn;
 
 public class ListaCirDoblEnlazada {
-	// Puntero que indica el inicio de la lista o conocida tambien
-		// como cabeza de la lista.
+	
 		NodoCircular primero;
 		NodoCircular ultimo;
 
-		// Variable para registrar el tamaño de la lista.
+	
 		public int tamanio;
 
 
